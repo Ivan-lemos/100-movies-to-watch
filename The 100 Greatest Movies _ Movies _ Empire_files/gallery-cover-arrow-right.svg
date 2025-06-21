@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <g id="Group-4-Copy-3" transform="translate(32.000000, 32.000000) scale(-1, 1) translate(-32.000000, -32.000000) " fill="#FF0000" fill-rule="nonzero">
+                <rect id="Rectangle-587-Copy-4" x="0" y="0" width="64" height="64"></rect>
+            </g>
+            <g id="square-download" transform="translate(32.000000, 32.000000) scale(-1, 1) rotate(180.000000) translate(-32.000000, -32.000000) translate(20.000000, 22.000000)" stroke="#FFFFFF" stroke-width="2">
+                <g id="Group-13" transform="translate(12.157895, 9.842105) rotate(-90.000000) translate(-12.157895, -9.842105) translate(2.657895, -1.657895)">
+                    <path d="M9.33786078,0 L9.33786078,22.1052632" id="Shape"></path>
+                    <polyline id="Shape" stroke-linecap="square" points="0 12.7674024 9.33786078 22.1052632 18.6757216 12.7674024"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
